@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+Checkpoint_2_em_grupo/mapa_sp.html
