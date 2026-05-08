@@ -10,6 +10,8 @@ O código e a documentação do checkpoint estão na pasta **`Checkpoint_2_em_gr
 |---------------|---------|
 | Arthur Canaverde da Cruz | 563029 |
 | Murilo Canestri | 564053 |
+| Isabella Jardim Marques | 566470 |
+| Mayene Moura da Silva | 564624 |
 
 **Disciplina:** FIAP — Dynamic Programming  
 **Checkpoint:** Checkpoint 2 — Grafos, recursão e memoização
